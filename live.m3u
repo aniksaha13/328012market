@@ -266,6 +266,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1785016940:KeyName=prod_linear:Signature=_9u67niLBi7ppPt80uX1ZozpQIt__G9tSfU9OoypEnIyW5dvPWCebpknWnki__u7EIZKNAxbJN-qCmPzmAHLDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png",& Pictures HD
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1785009637:KeyName=prod_linear:Signature=I2SEXR5mjgAcXkg--cW5_6o4Mr60cdPTJquJ6sTQsmMesXdG19HbE1i449ANnMJ1SByFfTDX9sMWX-L7-KkTCQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
 
 
 #=======AKASH GO News=======
